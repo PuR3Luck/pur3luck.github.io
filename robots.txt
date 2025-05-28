@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pur3luck.github.io//sitemap.xml
+Sitemap: https://pur3luck.github.io/sitemap.xml
